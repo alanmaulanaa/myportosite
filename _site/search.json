@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Portfolio Website",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Short talks pages"
   },
   {
     "objectID": "about.html",
@@ -14,10 +14,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio Website",
     "section": "",
-    "text": "Short talks pages"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
