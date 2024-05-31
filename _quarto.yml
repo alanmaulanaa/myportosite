@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: .
+  site-url: https://alanmaulanaa.github.io/myportosite/
 
 website:
   title: "Alan.dev"
