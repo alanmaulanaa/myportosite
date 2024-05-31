@@ -10,7 +10,9 @@ website:
       - text: "Home"
         href: index.qmd
       - talks.qmd
-      - about.qmd 
+        href: talks.qmd
+      - about.qmd
+        href: about.qmd 
 
 format:
   html:
