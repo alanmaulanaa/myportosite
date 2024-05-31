@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "Maulana Mubarak Ahmad - Portfolio Documentation"
+  title: "Maulana Mubarak Ahmad"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - talks.qmd
+      - about.qmd 
 
 format:
   html:
